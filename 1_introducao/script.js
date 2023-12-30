@@ -1,0 +1,1 @@
+console.log("Funcionando o js   do script.js");
