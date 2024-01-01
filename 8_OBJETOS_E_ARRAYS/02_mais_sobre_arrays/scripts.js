@@ -7,4 +7,4 @@ console.log(nomes[0]);
 console.log(bool[2]);
 console.log(arr[arr.length -1]);
 
-// 01/01
+// 01/01 
