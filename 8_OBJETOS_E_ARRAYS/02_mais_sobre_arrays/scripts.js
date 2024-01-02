@@ -8,3 +8,13 @@ console.log(bool[2]);
 console.log(arr[arr.length -1]);
 
 // 01/01 
+
+// mais sobre array
+//push() add elmento no final
+//pop() exc elemento no final
+let brasilFutebol = [ 'Flamengo', 'Cruzeiro', 'Paysandu'];
+brasilFutebol.push('Palmeiras');
+console.log(brasilFutebol);
+
+//brasilFutebol.pop();
+//console.log(brasilFutebol);
