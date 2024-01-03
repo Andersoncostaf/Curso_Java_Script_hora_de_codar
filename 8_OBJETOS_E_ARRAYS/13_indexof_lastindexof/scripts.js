@@ -5,6 +5,10 @@ console.log(nums.indexOf(2));
 // Procura a última ocorrência do número 2 no array e imprime o índice
 console.log(nums.lastIndexOf(2));
 
+
+
+
+
 // ------ Codigo REAL
 
 
