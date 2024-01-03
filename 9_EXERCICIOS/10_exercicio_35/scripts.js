@@ -9,10 +9,10 @@ const calc = {
     return a * b;
   },
   dividir: function(a,b) {
-    return a / b;
+    return a / b ; 
   }
 }
-
+//3232323
 console.log(calc.soma(5,5));
 console.log(calc.subtrair(5,2));
 console.log(calc.multiplicar(10,2));
